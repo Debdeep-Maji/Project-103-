@@ -1,0 +1,11 @@
+#mom {
+border: 1px lightslategray ;
+font-size: 35px;
+border-style: ridge;
+background-color: white;
+}
+
+body {
+    font-family: 'Quicksand', sans-serif;
+    background-color: cadetblue;
+}
